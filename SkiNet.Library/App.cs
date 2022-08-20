@@ -8,5 +8,6 @@ namespace SkiNet.Library
 {
     class App
     {
+        //not yet implemented
     }
 }
