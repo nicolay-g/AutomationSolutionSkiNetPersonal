@@ -1,6 +1,6 @@
 ﻿using TechTalk.SpecFlow;
 
-namespace SkiNetApp.Tests.Steps
+namespace SkiNet.Tests.Steps
 {
     [Binding]
     public sealed class CalculatorStepDefinitions
