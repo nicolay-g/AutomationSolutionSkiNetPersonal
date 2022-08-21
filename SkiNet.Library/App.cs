@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OpenQA.Selenium;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,11 @@ namespace SkiNet.Library
 {
     class App
     {
-        //not yet implemented
+        private IWebDriver Driver { get; init; }
+
+        public App(IWebDriver driver)
+        {
+            Driver = driver;            
+        }
     }
 }
