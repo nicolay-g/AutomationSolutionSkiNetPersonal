@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkiNet", "SkiNet\SkiNet.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkiNet.Library", "SkiNet.Library\SkiNet.Library.csproj", "{B4798153-787F-4436-B604-5EE08F9A09FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiNet.Tests", "SkiNet.Tests\SkiNet.Tests.csproj", "{46A8B4CE-3593-49CF-B46B-4E8DC8E32EB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B4798153-787F-4436-B604-5EE08F9A09FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4798153-787F-4436-B604-5EE08F9A09FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4798153-787F-4436-B604-5EE08F9A09FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A8B4CE-3593-49CF-B46B-4E8DC8E32EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A8B4CE-3593-49CF-B46B-4E8DC8E32EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A8B4CE-3593-49CF-B46B-4E8DC8E32EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A8B4CE-3593-49CF-B46B-4E8DC8E32EB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
